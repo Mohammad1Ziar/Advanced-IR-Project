@@ -81,6 +81,7 @@ The optimized ParsBERT model achieved **92.5% accuracy** on the SnappFood datase
 ## 📜 References
 - [ParsBERT Paper](https://arxiv.org/abs/2005.12515)
 - [SnappFood Sentiment Analysis Dataset](https://www.kaggle.com/datasets/soheiltehranipour/snappfood-persian-sentiment-analysis)
+- [ParsBERT Github-Ripository](https://github.com/hooshvare/parsbert)
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request. If you encounter any issues, create an issue in the GitHub repository.
