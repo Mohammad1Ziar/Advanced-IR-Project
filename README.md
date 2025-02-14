@@ -19,19 +19,6 @@ This repository contains an advanced sentiment analysis project focusing on Pers
 - Pandas & NumPy for data preprocessing 📊
 - Matplotlib & Seaborn for visualization 📈
 
-## 📂 Repository Structure
-```
-├── notebooks/               # Jupyter Notebooks for training & evaluation
-│   ├── snappfood-10-23-3-night.ipynb
-│   ├── snappfood-10-24-1-night.ipynb
-│   └── project-40306374.ipynb
-├── reports/                 # Project reports
-│   └── project-40306374.pdf
-├── data/                    # Processed dataset (not included due to privacy)
-├── models/                  # Trained models (checkpoint files)
-└── README.md                # Project documentation
-```
-
 ## 🏗️ Installation & Setup
 To get started with this project, follow these steps:
 
@@ -71,8 +58,7 @@ The optimized ParsBERT model achieved **92.5% accuracy** on the SnappFood datase
    - Stopword removal and punctuation cleaning
    - Handling spelling variations & mixed sentiments
 2. **Model Training:**
-   - Fine-tuning ParsBERT on the labeled SnappFood dataset
-   - Hyperparameter tuning (batch size = 8, learning rate = 1e-6)
+   - Hyperparameter tuning
    - Regularization techniques (dropout, L2 weight decay)
 3. **Evaluation:**
    - Performance measured using classification metrics (Precision, Recall, F1-score)
@@ -85,7 +71,3 @@ The optimized ParsBERT model achieved **92.5% accuracy** on the SnappFood datase
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request. If you encounter any issues, create an issue in the GitHub repository.
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
