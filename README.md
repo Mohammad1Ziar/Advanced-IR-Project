@@ -6,7 +6,6 @@
 This repository contains an advanced sentiment analysis project focusing on Persian text, specifically user reviews from SnappFood, an online food delivery platform in Iran. The project utilizes **ParsBERT**, a transformer-based model fine-tuned for Persian sentiment classification. By implementing optimization techniques, it significantly improves classification accuracy and robustness.
 
 ## 🚀 Features
-- **Fine-tuned ParsBERT** for Persian sentiment analysis
 - **Advanced preprocessing techniques** for handling informal language
 - **Optimized hyperparameters** for improved accuracy
 - **Performance evaluation using Precision, Recall, F1-score, and Accuracy**
